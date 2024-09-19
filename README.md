@@ -1,1 +1,1 @@
-# DjangoLittleLemonProject
+# Django Little Lemon Project
