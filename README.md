@@ -1,4 +1,4 @@
 # Django Little Lemon Project
-admin: 
-user: habib
-pass: 6624
+restaurant/menu
+restaurant/booking
+restaurant/
